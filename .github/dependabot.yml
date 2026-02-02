@@ -5,3 +5,4 @@ updates:
     directory: "/javascript"
     schedule:
       interval: "daily"
+      
